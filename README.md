@@ -6,6 +6,6 @@ Adicionalmente y por la facilidad que es hacer cluster a una imagen nostros hemo
 
 El funcionamiento de este codigo se basa en transformar archivos txt a jpeg y unirlos todos para asi crear el video 
 
-## main.py - Código Streamlit realizado en VSCode. Elección de # clusters en una imagen.
+## main.py - Código Streamlit 
 
-## im_vid_ascii.py - Código para generar imagenes o vídeos ASCII a partir de archivos del usuario. 
+## im_vid_ascii.py - Código para generar imagenes o vídeos
